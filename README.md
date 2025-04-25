@@ -53,16 +53,6 @@
 
 ---
 
-## 📊 **Estadísticas en GitHub**
-
-<p align="center">
-  <a href="https://github.com/DebMR">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DebMR&theme=dark&hide_border=false"/>
-  </a>
-</p>
-
----
-
 ## 📬 **Conecta Conmigo**
 
 <p align="center">
