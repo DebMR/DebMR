@@ -14,7 +14,7 @@
 - 🔐 Especialista en Ciberseguridad  
 - 🧠 En formación continua con enfoque en análisis de vulnerabilidades, respuesta ante incidentes y pentesting  
 - 📁 Repositorio de proyectos de ciberseguridad y herramientas de seguridad ofensiva/defensiva  
-- 📍 Basada en España 🌍  
+- 📍 Base en España 🌍  
 - 💼 [LinkedIn](https://www.linkedin.com/in/deborah-martin-redondo/)  
 
 ---
