@@ -49,7 +49,7 @@
 
 - 🎓 Bootcamp de Ciberseguridad - 4Geeks Academy  
 - 📚 Fundamentos de Seguridad Informática  
-- 📜 En proceso: CompTIA Security+  
+- 📜 En proceso: DORA: Digital Operational Resilience Act  
 
 ---
 
